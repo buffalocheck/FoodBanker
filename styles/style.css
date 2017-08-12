@@ -4,7 +4,20 @@ body {
 font-family: "PT Sans";
 font-weight: 400;
 font-style: italic;
-padding-bottom: 3em;
+padding-bottom: 2em;
+background-color: #0de9da;
+}
+
+.navbar {
+	min-height: 0;
+}
+
+.a-page {
+	padding: 2em 1em;
+}
+
+.btn-primary {
+	margin: 1em 0;
 }
 
 h1 {
@@ -14,27 +27,24 @@ font-weight: 700;
 
 p {
 	line-height: 3em;
-	font: 1.5em;
-	padding: 1em 0;
+	font-size: 2em;
+	color: white;
 }
 
-#pgSignUp {
-	background-color: #0de9da;
-/*	background-size: cover;*/
-height: 100%
-width: 100%;
-padding: 1em 0;
+#pg-SignUp {
+
+border: 3px;
+border-color: red;
 }
 
-#pgHomeDonate {
+#pg-HomeDonate {
 	background-color: #009c92;
 }
 
-#pgLeaderBoard {
-	background-color: #0de9da;
+#pg-LeaderBoard {
 }
 
-#pgProfile {
+#pg-Profile {
 	background-color: #009c92;
 }
 
