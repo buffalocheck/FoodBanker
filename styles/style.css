@@ -5,7 +5,8 @@ font-family: "PT Sans";
 font-weight: 400;
 font-style: italic;
 padding-bottom: 2em;
-background-color: #0de9da;
+/*background-color: #0de9da;*/
+background-color: #fff;
 }
 
 .navbar {
@@ -17,12 +18,14 @@ background-color: #0de9da;
 }
 
 .btn-primary {
-	margin: 1em 0;
+	margin: 2em 0;
+	background-color: #ff7028;
 }
 
 h1 {
 font-family: "PT Sans";
 font-weight: 700;
+color: #009c92;
 }
 
 p {
@@ -31,21 +34,17 @@ p {
 	color: white;
 }
 
-#pg-SignUp {
-
-border: 3px;
-border-color: red;
-}
-
 #pg-HomeDonate {
-	background-color: #009c92;
+	height: 666px;
+/*	background-color: #009c92;*/
 }
 
 #pg-LeaderBoard {
+	height: 666px;
 }
 
 #pg-Profile {
-	background-color: #009c92;
+/*	background-color: #009c92;*/
 }
 
 
