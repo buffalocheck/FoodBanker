@@ -1,5 +1,3 @@
-/*font-family: 'PT Sans', sans-serif;*/
-/*font-family: 'PT Serif', serif;*/
 body {
 font-family: "PT Sans";
 font-weight: 400;
@@ -43,12 +41,19 @@ p {
 
 #camera {
 	margin: 2em auto;
-	height: 200px;
-  width: 200px;
+	height: 300px;
+  width: 300px;
   border-width: 5px;
   border-radius: 5px;
   border-color: #009c92;
-  /*background-color: #0de9da;*/
+  background-color: #0de9da;
+}
+
+.fa-camera-retro {
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 4em;
 }
 
 #profile-pic {
