@@ -48,7 +48,7 @@ p {
   border-width: 5px;
   border-radius: 5px;
   border-color: #009c92;
-  background-color: #0de9da;
+  /*background-color: #0de9da;*/
 }
 
 #profile-pic {
@@ -74,7 +74,7 @@ p {
 }
 
 #pg-LeaderBoard {
-	height: 666px;
+	height: 668px;
 }
 
 #pg-Profile h1{
