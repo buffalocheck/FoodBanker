@@ -4,6 +4,7 @@ body {
 font-family: "PT Sans";
 font-weight: 400;
 font-style: italic;
+padding-bottom: 3em;
 }
 
 h1 {
@@ -11,12 +12,18 @@ font-family: "PT Sans";
 font-weight: 700;
 }
 
+p {
+	line-height: 3em;
+	font: 1.5em;
+	padding: 1em 0;
+}
+
 #pgSignUp {
 	background-color: #0de9da;
 /*	background-size: cover;*/
 height: 100%
 width: 100%;
-	size: cover;
+padding: 1em 0;
 }
 
 #pgHomeDonate {
