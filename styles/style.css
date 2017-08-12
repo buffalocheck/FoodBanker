@@ -1,2 +1,27 @@
-font-family: 'PT Sans', sans-serif;
-font-family: 'PT Serif', serif;
+/*font-family: 'PT Sans', sans-serif;*/
+/*font-family: 'PT Serif', serif;*/
+body {
+font-family: PT+Sans;
+}
+
+#pgSignUp {
+	background-color: #0de9da;
+/*	background-size: cover;*/
+height: 100%
+width: 100%;
+	size: cover;
+}
+
+#pgHomeDonate {
+	background-color: #009c92;
+}
+
+#pgLeaderBoard {
+	background-color: #0de9da;
+}
+
+#pgProfile {
+	background-color: #009c92;
+}
+
+
