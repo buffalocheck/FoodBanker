@@ -28,10 +28,37 @@ font-weight: 700;
 color: #009c92;
 }
 
+h2 {
+	text-align: center;
+}
+
 p {
-	line-height: 3em;
-	font-size: 2em;
-	color: white;
+	line-height: .7em;
+	font-size: 1.5em;
+	color: #000;
+}
+#logo-hero {
+	margin: 2em 0;
+}
+
+#camera {
+	margin: auto;
+	height: 25%;
+  width: 50%;
+  border-width: 3px;
+  border-radius: 5px;
+  border-color: #009c92;
+  background-color: #0de9da;
+}
+
+#profile-pic {
+	display: flex;
+}
+
+#pro-pic {
+	color: #009c92;
+	font-size: 10em;
+	margin: .2em;
 }
 
 #pg-HomeDonate {
@@ -43,7 +70,8 @@ p {
 	height: 666px;
 }
 
-#pg-Profile {
+#pg-Profile h1{
+	margin: 1em 0;
 /*	background-color: #009c92;*/
 }
 
